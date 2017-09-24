@@ -8,9 +8,9 @@ Keras, Tensorflow
 
 # Creating the Model
 
-'''
+```
 python <chosen model>.py
-'''
+```
   
 The information from the data file
 
