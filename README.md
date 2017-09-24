@@ -11,9 +11,8 @@ Keras, Tensorflow
 ```
 python <chosen model>.py
 ```
-  
-The information from the data file
 
 # Data
 
-I used a Facebook chat bot and some volunteers to collect the data
+
+The articles were classified by volunteers through a Facebook chatbot
